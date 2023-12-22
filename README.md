@@ -8,7 +8,7 @@ The following tweet shows the original author of **go-homedir** is archiving his
 
 I have used this package in many of my projects so I decided to fork and offer to maintain it.
 
-As such Feature Requests are welcome!
+## As such [Feature](https://github.com/mikeschinkel/go-homedir/issues) [Requests](https://github.com/mikeschinkel/go-homedir/discussions) are welcome!
 
 
 ## Overview
